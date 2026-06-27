@@ -1,6 +1,6 @@
-If you meet any problem or request a new feature, you're welcome to [create an issue](https://github.com/baidu/omilos-ocr/issues/new/choose).
+If you meet any problem or request a new feature, you're welcome to [create an issue](https://github.com/gokul77898/omilos-ocr-/issues/new/choose).
 
-If you can solve any of [the issues](https://github.com/baidu/omilos-ocr/issues), you're welcome to send the PR to us.
+If you can solve any of [the issues](https://github.com/gokul77898/omilos-ocr-/issues), you're welcome to send the PR to us.
 
 Before the PR:
 
@@ -10,13 +10,13 @@ Before the PR:
 
 After the PR:
 
-* Make sure the [GitHub Actions](https://github.com/baidu/omilos-ocr/actions) passed.
+* Make sure the [GitHub Actions](https://github.com/gokul77898/omilos-ocr-/actions) passed.
 
 # Chinese version
 
-如果你遇到问题或需要新功能，欢迎[创建issue](https://github.com/baidu/omilos-ocr/issues/new/choose)。
+如果你遇到问题或需要新功能，欢迎[创建issue](https://github.com/gokul77898/omilos-ocr-/issues/new/choose)。
 
-如果你可以解决某个[issue](https://github.com/baidu/omilos-ocr/issues)，欢迎发送PR。
+如果你可以解决某个[issue](https://github.com/gokul77898/omilos-ocr-/issues)，欢迎发送PR。
 
 发送PR前请确认：
 
@@ -26,4 +26,4 @@ After the PR:
 
 提交PR后请确认：
 
-* [GitHub Actions](https://github.com/baidu/omilos-ocr/actions)成功通过。
+* [GitHub Actions](https://github.com/gokul77898/omilos-ocr-/actions)成功通过。
